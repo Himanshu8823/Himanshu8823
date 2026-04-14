@@ -22,7 +22,7 @@
 
 ## `> whoami`
 
-Full Stack Developer with **6 months of internship experience as Full Stack Developer** at **Levitation Infotech** — where I built and shipped real-world applications, from modular real-time CMS platforms to AI-powered tools. I work across the entire stack: REST & GraphQL API design, server-side rendering, database architecture, and pixel-sharp UIs.
+Full Stack Developer with **6 months of production internship experience** at **Levitation Infotech** — where I built and shipped real-world applications, from modular real-time CMS platforms to AI-powered tools. I work across the entire stack: REST & GraphQL API design, server-side rendering, database architecture, and pixel-sharp UIs.
 
 Currently pursuing **B.Tech in Computer Science (AI & ML)** at G.H. Raisoni College of Engineering, Jalgaon — **CGPA: 8.83 / 10**
 
@@ -150,7 +150,7 @@ AI-powered web app generating personalized recipes — filters for calories, all
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=himanshu8823&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff6b35&currStreakLabel=58a6ff)
 
-[![Himanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu8823&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true&radius=6&height=250)](https://github.com/himanshu8823)
+![Himanshu's Contribution Graph](https://ghchart.rshah.org/3fb950/himanshu8823)
 
 </div>
 
