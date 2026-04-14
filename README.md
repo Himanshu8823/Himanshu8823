@@ -1,15 +1,15 @@
 <div align="center">
 
-```
+<pre align="center">
 ██╗  ██╗██╗███╗   ███╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
 ██║  ██║██║████╗ ████║██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
 ███████║██║██╔████╔██║███████║██╔██╗ ██║███████╗███████║██║   ██║
 ██╔══██║██║██║╚██╔╝██║██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
 ██║  ██║██║██║ ╚═╝ ██║██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
 ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
-```
+</pre>
 
-### Full Stack Developer · Levitation Infotech Alumni · Open to Opportunities
+### Full Stack Developer · Open to Opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-himanshukawale.engineer-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshukawale.engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu_Kawale-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kawale-69912b189)
@@ -150,7 +150,7 @@ AI-powered web app generating personalized recipes — filters for calories, all
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=himanshu8823&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff6b35&currStreakLabel=58a6ff)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu8823&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&hide_border=true)
+[![Himanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu8823&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true&radius=6&height=250)](https://github.com/himanshu8823)
 
 </div>
 
