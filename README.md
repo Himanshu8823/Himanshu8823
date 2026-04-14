@@ -141,14 +141,10 @@ AI-powered web app generating personalized recipes — filters for calories, all
 <tr>
 <td>
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu8823&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9)
+![Himanshu's GitHub Stats]
 
 </td>
-<td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu8823&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</td>
 </tr>
 </table>
 
