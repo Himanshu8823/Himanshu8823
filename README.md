@@ -84,10 +84,12 @@ Currently pursuing **B.Tech in Computer Science (AI & ML)** at G.H. Raisoni Coll
 ### 🍽️ Advanced Food Ordering System + POS
 Full-stack food ordering platform with integrated Point of Sale — real restaurant workflows, order management, billing, and a clean operator dashboard.
 
-![MERN](https://img.shields.io/badge/MERN-Stack-4DB33D?style=flat-square)
-![POS](https://img.shields.io/badge/POS-Integrated-FF9900?style=flat-square)
-
-[Live Demo](#) · [Source Code](#)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -98,8 +100,6 @@ Long-form document creation platform with a context-aware AI assistant. Paginati
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-AI-a371f7?style=flat-square)
-
-[Live Demo](#) · [Source Code](#)
 
 </td>
 </tr>
@@ -113,8 +113,6 @@ End-to-end hackathon platform that handled 100+ active users — registration, e
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 
-[Live Demo](#) · [Source Code](#)
-
 </td>
 <td width="50%" valign="top">
 
@@ -124,8 +122,6 @@ AI-powered web app generating personalized recipes — filters for calories, all
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
-[Live Demo](#) · [Source Code](#)
 
 </td>
 </tr>
@@ -137,9 +133,20 @@ AI-powered web app generating personalized recipes — filters for calories, all
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 ![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu8823&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9)
 
+</td>
+<td>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu8823&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</td>
+</tr>
+</table>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=himanshu8823&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff6b35&currStreakLabel=58a6ff)
 
