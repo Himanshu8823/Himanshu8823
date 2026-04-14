@@ -139,11 +139,6 @@ AI-powered web app generating personalized recipes — filters for calories, all
 
 <table>
 <tr>
-<td>
-
-![Himanshu's GitHub Stats]
-
-</td>
 
 </tr>
 </table>
