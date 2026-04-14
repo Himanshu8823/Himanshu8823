@@ -150,8 +150,6 @@ AI-powered web app generating personalized recipes — filters for calories, all
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=himanshu8823&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff6b35&currStreakLabel=58a6ff)
 
-![Himanshu's Contribution Graph](https://ghchart.rshah.org/3fb950/himanshu8823)
-
 </div>
 
 ---
