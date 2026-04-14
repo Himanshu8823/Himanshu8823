@@ -22,7 +22,7 @@
 
 ## `> whoami`
 
-Full Stack Developer with **6 months of production internship experience** at **Levitation Infotech** — where I built and shipped real-world applications, from modular real-time CMS platforms to AI-powered tools. I work across the entire stack: REST & GraphQL API design, server-side rendering, database architecture, and pixel-sharp UIs.
+Full Stack Developer with **6 months of internship experience as Full Stack Developer** at **Levitation Infotech** — where I built and shipped real-world applications, from modular real-time CMS platforms to AI-powered tools. I work across the entire stack: REST & GraphQL API design, server-side rendering, database architecture, and pixel-sharp UIs.
 
 Currently pursuing **B.Tech in Computer Science (AI & ML)** at G.H. Raisoni College of Engineering, Jalgaon — **CGPA: 8.83 / 10**
 
